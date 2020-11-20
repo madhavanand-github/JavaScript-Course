@@ -33,3 +33,6 @@ console.log(y);
 // Maths equation works in same way
 let ans = y + 5/5;
 console.log(ans);
+
+// TypeOf ___IMP___
+console.log(typeof "GitHub");
