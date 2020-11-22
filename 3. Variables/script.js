@@ -1,19 +1,13 @@
-
 // Variables are containers to store any data
 // Naming Convention: Starts only from $, _, {letter}
-// Case Sensitive: digit and Digit both are different
+// Case Sensitive
 
-var x = 5; // Old Method to declare a variable
-let y = 5; // New Method to declare a variable
-y = 10; // ___IMP___ Value can be changed
+var x = 5; // OLD METHOD
+let y = 5; // NEW MEHTOD
 
-// Few Examples
-let m = 1, n = 2;
-let firstName = "Madhav";
-let lastName = 'Anand';
-let fullName;
-fullName = "Madhav Anand";
+let firstName = "Madhav"; // DOUBLE QUOTE
+let lastName = 'Anand'; // SINGLE QUOTE
 
-const pie = 3.14; // Value can't be changed
+const pie = 3.14; // CONSTANT VALUES
 
 
